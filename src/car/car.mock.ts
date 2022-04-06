@@ -1,12 +1,12 @@
 export const Car = [
   {
-    id: '16092131',
+    id: 1,
     brand: 'BMW',
     color: 'gold',
     model: 'BMW XS',
   },
   {
-    id: '1953123',
+    id: 2,
     brand: 'Ford',
     color: 'black',
     model: 'Ford BB',
